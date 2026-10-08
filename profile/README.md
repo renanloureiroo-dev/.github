@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renanloureiroo-dev/.github/main/profile/readme-banner-1280x320.png" alt="renanloureiro-dev" width="100%">
+  <img src="https://raw.githubusercontent.com/renanloureiroo-dev/.github/main/profile/readme-banner-1280x320.png" alt="renanloureiroo-dev" width="100%">
 </p>
 
 <p align="center">

@@ -1,4 +1,4 @@
-# renanloureiro-dev · marca
+# renanloureiroo-dev · marca
 
 Xícara rubro-negra em pixel art 16 × 16: café, as cores do time e o video game retrô.
 
@@ -21,7 +21,7 @@ Xícara rubro-negra em pixel art 16 × 16: café, as cores do time e o video gam
 
 ## Como aplicar no GitHub
 
-1. **Foto da organização:** github.com/organizations/renanloureiro-dev/settings/profile → *Profile picture* → envie `avatar/avatar-escuro-512.png`. Envie o quadrado como está; o GitHub arredonda os cantos sozinho.
+1. **Foto da organização:** github.com/organizations/renanloureiroo-dev/settings/profile → *Profile picture* → envie `avatar/avatar-escuro-512.png`. Envie o quadrado como está; o GitHub arredonda os cantos sozinho.
 2. **README da organização:** crie o repositório público `.github` na organização, com o arquivo `profile/README.md`. Use `github/profile-README.md` como modelo e coloque o banner e o GIF na pasta `profile/`.
 3. **Prévia social de cada repositório:** Settings do repositório → *Social preview* → envie `github/social-preview-1280x640.png` (ou uma cópia com o nome do projeto).
 
@@ -42,7 +42,7 @@ Xícara rubro-negra em pixel art 16 × 16: café, as cores do time e o video gam
 
 ## Tipografia
 
-**Jersey 10** (Google Fonts, licença SIL Open Font License), em minúsculas: `renanloureiro` na cor do texto e `-dev` em vermelho.
+**Jersey 10** (Google Fonts, licença SIL Open Font License), em minúsculas: `renanloureiroo` na cor do texto e `-dev` em vermelho.
 
 ## Regras
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme-banner-1280x320.png" alt="renanloureiro-dev" width="100%">
+  <img src="readme-banner-1280x320.png" alt="renanloureiroo-dev" width="100%">
 </p>
 
 <p align="center">
@@ -14,5 +14,5 @@
 
 | Projeto | O que é |
 |---|---|
-| [sobrou](https://github.com/renanloureiro-dev/sobrou) | [DESCRIÇÃO DO SOBROU] |
-| [PROJETO](https://github.com/renanloureiro-dev/PROJETO) | [DESCRIÇÃO] |
+| [sobrou](https://github.com/renanloureiroo-dev/sobrou) | [DESCRIÇÃO DO SOBROU] |
+| [PROJETO](https://github.com/renanloureiroo-dev/PROJETO) | [DESCRIÇÃO] |
